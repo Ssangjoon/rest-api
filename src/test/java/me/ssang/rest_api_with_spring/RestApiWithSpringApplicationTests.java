@@ -1,10 +1,10 @@
-package me.ssang.inflearn_rest_api;
+package me.ssang.rest_api_with_spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InflearnRestApiApplicationTests {
+class RestApiWithSpringApplicationTests {
 
 	@Test
 	void contextLoads() {

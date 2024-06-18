@@ -1,13 +1,13 @@
-package me.ssang.inflearn_rest_api;
+package me.ssang.rest_api_with_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InflearnRestApiApplication {
+public class RestApiWithSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InflearnRestApiApplication.class, args);
+		SpringApplication.run(RestApiWithSpringApplication.class, args);
 	}
 
 }
